@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03336664-43db-445f-8434-57421055b81f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodluyoruzilkrepo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodluyoruzilkrepo-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/Giris/Baslangic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/Daire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/Hioptenüs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/KDV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/Taksimetre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/VKI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java101/deneme/deneme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Giris/Baslangic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/dersgecme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/hesapmak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/kullanicigiris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/manav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.VKI">
-    <configuration name="Daire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.Daire" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="deneme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.dersgecme">
     <configuration name="VKI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deneme.VKI" />
       <module name="Java101" />
@@ -73,10 +50,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dersgecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.dersgecme" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hesapmak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.hesapmak" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kullanicigiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.kullanicigiris" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.manav" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dersgecme" />
+        <item itemvalue="Application.kullanicigiris" />
+        <item itemvalue="Application.hesapmak" />
+        <item itemvalue="Application.manav" />
         <item itemvalue="Application.VKI" />
-        <item itemvalue="Application.Daire" />
       </list>
     </recent_temporary>
   </component>
