@@ -1,0 +1,33 @@
+package deneme;
+import java.util.Scanner;
+public class SayiSiralama {
+    public static void main(String[] args) {
+        int a,b,c;
+        Scanner giris = new Scanner(System.in);
+        System.out.print("1. Sayıyı Giriniz : ");
+        a = giris.nextInt();
+        System.out.print("2. Sayıyı Giriniz : ");
+        b = giris.nextInt();
+        System.out.print("3. Sayıyı Giriniz : ");
+        c = giris.nextInt();
+        if ((a>b) && (a>c)){
+            if(b>c){
+                System.out.println("a > b > c");
+            } else {
+                System.out.println("a > c > b");
+            }
+        } else if ((b>a) && (b>c)){
+            if(b>c){
+                System.out.println("b > b > c");
+            } else {
+                System.out.println("b > a > b");
+            }
+        } else if ((c>b) && (c>a)){
+            if(a>b){
+                System.out.println("c > a > b");
+            } else {
+                System.out.println("c > b > a");
+            }
+        }
+    }
+}
