@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03336664-43db-445f-8434-57421055b81f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/deneme/BurcBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/SayiSiralama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/UcakBiletiFiyatHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/Zodyag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deneme/dersgecme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme/havasicakligi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deneme/hesapmak.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deneme/kullanicigiris.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deneme/manav.java" afterDir="false" />
@@ -23,6 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/deneme" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1tG3m9q7EzKLFsQE5takEIZdA94" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,9 +49,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.dersgecme">
-    <configuration name="VKI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.VKI" />
+  <component name="RunManager" selected="Application.Zodyag">
+    <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.BurcBulma" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dersgecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.dersgecme" />
+    <configuration name="SayiSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.SayiSiralama" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hesapmak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.hesapmak" />
+    <configuration name="UcakBiletiFiyatHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.UcakBiletiFiyatHesaplama" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kullanicigiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.kullanicigiris" />
+    <configuration name="Zodyag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.Zodyag" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.manav" />
+    <configuration name="havasicakligi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.havasicakligi" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dersgecme" />
-        <item itemvalue="Application.kullanicigiris" />
-        <item itemvalue="Application.hesapmak" />
-        <item itemvalue="Application.manav" />
-        <item itemvalue="Application.VKI" />
+        <item itemvalue="Application.Zodyag" />
+        <item itemvalue="Application.UcakBiletiFiyatHesaplama" />
+        <item itemvalue="Application.BurcBulma" />
+        <item itemvalue="Application.SayiSiralama" />
+        <item itemvalue="Application.havasicakligi" />
       </list>
     </recent_temporary>
   </component>
@@ -133,5 +146,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
